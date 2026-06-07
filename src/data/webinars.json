@@ -1,0 +1,64 @@
+{
+  "webinars": [
+    {
+      "title": "Getting Started with Web Development",
+      "description": "Learn the fundamentals of HTML, CSS, JavaScript, and how modern websites are built.",
+      "slug": "getting-started-with-web-development",
+      "isFeatured": true
+    },
+    {
+      "title": "Introduction to MERN Stack Development",
+      "description": "Explore how MongoDB, Express, React, and Node.js work together to create full-stack applications.",
+      "slug": "introduction-to-mern-stack-development",
+      "isFeatured": true
+    },
+    {
+      "title": "AI & Machine Learning for Beginners",
+      "description": "Understand AI concepts, machine learning basics, and how models are trained.",
+      "slug": "ai-machine-learning-for-beginners",
+      "isFeatured": true
+    },
+    {
+      "title": "Building Mobile Apps with Flutter",
+      "description": "Discover how to create cross-platform mobile applications using Flutter.",
+      "slug": "building-mobile-apps-with-flutter",
+      "isFeatured": true
+    },
+    {
+      "title": "Modern React & Next.js Practices",
+      "description": "Learn modern frontend development techniques using React and Next.js.",
+      "slug": "modern-react-nextjs-practices",
+      "isFeatured": true
+    },
+    {
+      "title": "Cybersecurity Essentials for Developers",
+      "description": "Learn common security risks and best practices for protecting applications.",
+      "slug": "cybersecurity-essentials-for-developers",
+      "isFeatured": false
+    },
+    {
+      "title": "Cloud Computing Fundamentals",
+      "description": "Understand cloud infrastructure, services, and deployment concepts.",
+      "slug": "cloud-computing-fundamentals",
+      "isFeatured": false
+    },
+    {
+      "title": "Game Development with Unity",
+      "description": "Learn how games are designed and developed using Unity and C#.",
+      "slug": "game-development-with-unity",
+      "isFeatured": true
+    },
+    {
+      "title": "DevOps & CI/CD Workflow Explained",
+      "description": "Understand automation, deployment pipelines, and DevOps practices.",
+      "slug": "devops-cicd-workflow-explained",
+      "isFeatured": false
+    },
+    {
+      "title": "Mastering APIs and Backend Development",
+      "description": "Learn how APIs work and build scalable backend services.",
+      "slug": "mastering-apis-and-backend-development",
+      "isFeatured": false
+    }
+  ]
+}
