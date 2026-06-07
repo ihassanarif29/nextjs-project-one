@@ -1,204 +1,204 @@
 {
-    "courses": [
-        {
-            "id": 1,
-            "title": "Complete JavaScript Bootcamp",
-            "slug": "complete-javascript-bootcamp",
-            "description": "Learn modern JavaScript from beginner to advanced with real-world projects.",
-            "price": 49.99,
-            "instructor": "John Smith",
-            "isFeatured": true,
-            "image": "/images/javascript-course.jpg"
-        },
-        {
-            "id": 2,
-            "title": "MERN Stack Development Masterclass",
-            "slug": "mern-stack-development-masterclass",
-            "description": "Build full-stack applications using MongoDB, Express, React, and Node.js.",
-            "price": 79.99,
-            "instructor": "Sarah Johnson",
-            "isFeatured": true,
-            "image": "/images/mern-course.jpg"
-        },
-        {
-            "id": 3,
-            "title": "Python for Beginners",
-            "slug": "python-for-beginners",
-            "description": "Learn Python programming fundamentals with practical examples.",
-            "price": 39.99,
-            "instructor": "David Wilson",
-            "isFeatured": false,
-            "image": "/images/python-course.jpg"
-        },
-        {
-            "id": 4,
-            "title": "React & Next.js Complete Guide",
-            "slug": "react-nextjs-complete-guide",
-            "description": "Build production-ready React and Next.js applications.",
-            "price": 59.99,
-            "instructor": "Emily Davis",
-            "isFeatured": true,
-            "image": "/images/react-course.jpg"
-        },
-        {
-            "id": 5,
-            "title": "Unity Game Development",
-            "slug": "unity-game-development",
-            "description": "Create 2D and 3D games using Unity and C#.",
-            "price": 89.99,
-            "instructor": "Michael Brown",
-            "isFeatured": true,
-            "image": "/images/unity-course.jpg"
-        },
-        {
-            "id": 6,
-            "title": "Docker & Kubernetes Essentials",
-            "slug": "docker-kubernetes-essentials",
-            "description": "Master containerization and orchestration technologies.",
-            "price": 69.99,
-            "instructor": "Alex Carter",
-            "isFeatured": false,
-            "image": "/images/docker-course.jpg"
-        },
-        {
-            "id": 7,
-            "title": "Complete C++ Programming",
-            "slug": "complete-cpp-programming",
-            "description": "Learn C++ from basics to advanced concepts and OOP.",
-            "price": 44.99,
-            "instructor": "Robert Taylor",
-            "isFeatured": false,
-            "image": "/images/cpp-course.jpg"
-        },
-        {
-            "id": 8,
-            "title": "Java Programming Masterclass",
-            "slug": "java-programming-masterclass",
-            "description": "Learn Java programming and object-oriented development.",
-            "price": 54.99,
-            "instructor": "Daniel Lee",
-            "isFeatured": true,
-            "image": "/images/java-course.jpg"
-        },
-        {
-            "id": 9,
-            "title": "Advanced TypeScript Course",
-            "slug": "advanced-typescript-course",
-            "description": "Master TypeScript for scalable web applications.",
-            "price": 42.99,
-            "instructor": "Chris Martin",
-            "isFeatured": false,
-            "image": "/images/typescript-course.jpg"
-        },
-        {
-            "id": 10,
-            "title": "Node.js Backend Development",
-            "slug": "nodejs-backend-development",
-            "description": "Build scalable backend APIs using Node.js and Express.",
-            "price": 64.99,
-            "instructor": "Jessica White",
-            "isFeatured": true,
-            "image": "/images/node-course.jpg"
-        },
-        {
-            "id": 11,
-            "title": "Flutter Mobile App Development",
-            "slug": "flutter-mobile-app-development",
-            "description": "Build Android and iOS applications using Flutter.",
-            "price": 74.99,
-            "instructor": "Andrew Scott",
-            "isFeatured": true,
-            "image": "/images/flutter-course.jpg"
-        },
-        {
-            "id": 12,
-            "title": "Android Development with Kotlin",
-            "slug": "android-development-with-kotlin",
-            "description": "Learn modern Android development using Kotlin.",
-            "price": 59.99,
-            "instructor": "Sophia Clark",
-            "isFeatured": false,
-            "image": "/images/kotlin-course.jpg"
-        },
-        {
-            "id": 13,
-            "title": "iOS Development with Swift",
-            "slug": "ios-development-with-swift",
-            "description": "Create professional iOS applications using Swift.",
-            "price": 69.99,
-            "instructor": "Ryan Cooper",
-            "isFeatured": false,
-            "image": "/images/swift-course.jpg"
-        },
-        {
-            "id": 14,
-            "title": "Machine Learning with Python",
-            "slug": "machine-learning-with-python",
-            "description": "Build machine learning models using Python libraries.",
-            "price": 99.99,
-            "instructor": "Lisa Walker",
-            "isFeatured": true,
-            "image": "/images/ml-course.jpg"
-        },
-        {
-            "id": 15,
-            "title": "Cybersecurity Fundamentals",
-            "slug": "cybersecurity-fundamentals",
-            "description": "Learn networking, security principles, and ethical hacking basics.",
-            "price": 58.99,
-            "instructor": "Kevin Harris",
-            "isFeatured": false,
-            "image": "/images/cyber-course.jpg"
-        },
-        {
-            "id": 16,
-            "title": "AWS Cloud Practitioner Course",
-            "slug": "aws-cloud-practitioner-course",
-            "description": "Understand cloud computing and AWS services.",
-            "price": 72.99,
-            "instructor": "Mark Allen",
-            "isFeatured": true,
-            "image": "/images/aws-course.jpg"
-        },
-        {
-            "id": 17,
-            "title": "SQL Database Masterclass",
-            "slug": "sql-database-masterclass",
-            "description": "Learn SQL queries, database design, and optimization.",
-            "price": 34.99,
-            "instructor": "Emma Thompson",
-            "isFeatured": false,
-            "image": "/images/sql-course.jpg"
-        },
-        {
-            "id": 18,
-            "title": "Git & GitHub Complete Course",
-            "slug": "git-github-complete-course",
-            "description": "Master version control and collaborative development.",
-            "price": 29.99,
-            "instructor": "Nathan Brooks",
-            "isFeatured": false,
-            "image": "/images/git-course.jpg"
-        },
-        {
-            "id": 19,
-            "title": "Data Structures & Algorithms",
-            "slug": "data-structures-algorithms",
-            "description": "Prepare for coding interviews with DSA concepts.",
-            "price": 84.99,
-            "instructor": "Olivia Green",
-            "isFeatured": true,
-            "image": "/images/dsa-course.jpg"
-        },
-        {
-            "id": 20,
-            "title": "DevOps Engineering Bootcamp",
-            "slug": "devops-engineering-bootcamp",
-            "description": "Learn CI/CD pipelines, automation, monitoring, and infrastructure.",
-            "price": 94.99,
-            "instructor": "William Turner",
-            "isFeatured": true,
-            "image": "/images/devops-course.jpg"
-        }
-    ]
+  "courses": [
+    {
+      "id": 1,
+      "title": "Complete JavaScript Bootcamp",
+      "slug": "complete-javascript-bootcamp",
+      "description": "Learn modern JavaScript from beginner to advanced with real-world projects.",
+      "price": 49.99,
+      "instructor": "John Smith",
+      "isFeatured": true,
+      "image": "/images/javascript-course.jpg"
+    },
+    {
+      "id": 2,
+      "title": "MERN Stack Development Masterclass",
+      "slug": "mern-stack-development-masterclass",
+      "description": "Build full-stack applications using MongoDB, Express, React, and Node.js.",
+      "price": 79.99,
+      "instructor": "Sarah Johnson",
+      "isFeatured": false,
+      "image": "/images/mern-course.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Python for Beginners",
+      "slug": "python-for-beginners",
+      "description": "Learn Python programming fundamentals with practical examples.",
+      "price": 39.99,
+      "instructor": "David Wilson",
+      "isFeatured": true,
+      "image": "/images/python-course.jpg"
+    },
+    {
+      "id": 4,
+      "title": "React & Next.js Complete Guide",
+      "slug": "react-nextjs-complete-guide",
+      "description": "Build production-ready React and Next.js applications.",
+      "price": 59.99,
+      "instructor": "Emily Davis",
+      "isFeatured": false,
+      "image": "/images/react-course.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Unity Game Development",
+      "slug": "unity-game-development",
+      "description": "Create 2D and 3D games using Unity and C#.",
+      "price": 89.99,
+      "instructor": "Michael Brown",
+      "isFeatured": true,
+      "image": "/images/unity-course.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Docker & Kubernetes Essentials",
+      "slug": "docker-kubernetes-essentials",
+      "description": "Master containerization and orchestration technologies.",
+      "price": 69.99,
+      "instructor": "Alex Carter",
+      "isFeatured": false,
+      "image": "/images/docker-course.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Complete C# Programming",
+      "slug": "complete-cpp-programming",
+      "description": "Learn C++ from basics to advanced concepts and OOP.",
+      "price": 44.99,
+      "instructor": "Robert Taylor",
+      "isFeatured": true,
+      "image": "/images/cpp-course.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Java Programming Masterclass",
+      "slug": "java-programming-masterclass",
+      "description": "Learn Java programming and object-oriented development.",
+      "price": 54.99,
+      "instructor": "Daniel Lee",
+      "isFeatured": false,
+      "image": "/images/java-course.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Advanced TypeScript Course",
+      "slug": "advanced-typescript-course",
+      "description": "Master TypeScript for scalable web applications.",
+      "price": 42.99,
+      "instructor": "Chris Martin",
+      "isFeatured": false,
+      "image": "/images/typescript-course.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Node.js Backend Development",
+      "slug": "nodejs-backend-development",
+      "description": "Build scalable backend APIs using Node.js and Express.",
+      "price": 64.99,
+      "instructor": "Jessica White",
+      "isFeatured": false,
+      "image": "/images/node-course.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Flutter Mobile App Development",
+      "slug": "flutter-mobile-app-development",
+      "description": "Build Android and iOS applications using Flutter.",
+      "price": 74.99,
+      "instructor": "Andrew Scott",
+      "isFeatured": false,
+      "image": "/images/flutter-course.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Android Development with Kotlin",
+      "slug": "android-development-with-kotlin",
+      "description": "Learn modern Android development using Kotlin.",
+      "price": 59.99,
+      "instructor": "Sophia Clark",
+      "isFeatured": true,
+      "image": "/images/kotlin-course.jpg"
+    },
+    {
+      "id": 13,
+      "title": "iOS Development with Swift",
+      "slug": "ios-development-with-swift",
+      "description": "Create professional iOS applications using Swift.",
+      "price": 69.99,
+      "instructor": "Ryan Cooper",
+      "isFeatured": true,
+      "image": "/images/swift-course.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Machine Learning with Python",
+      "slug": "machine-learning-with-python",
+      "description": "Build machine learning models using Python libraries.",
+      "price": 99.99,
+      "instructor": "Lisa Walker",
+      "isFeatured": false,
+      "image": "/images/ml-course.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Cybersecurity Fundamentals",
+      "slug": "cybersecurity-fundamentals",
+      "description": "Learn networking, security principles, and ethical hacking basics.",
+      "price": 58.99,
+      "instructor": "Kevin Harris",
+      "isFeatured": false,
+      "image": "/images/cyber-course.jpg"
+    },
+    {
+      "id": 16,
+      "title": "AWS Cloud Practitioner Course",
+      "slug": "aws-cloud-practitioner-course",
+      "description": "Understand cloud computing and AWS services.",
+      "price": 72.99,
+      "instructor": "Mark Allen",
+      "isFeatured": false,
+      "image": "/images/aws-course.jpg"
+    },
+    {
+      "id": 17,
+      "title": "SQL Database Masterclass",
+      "slug": "sql-database-masterclass",
+      "description": "Learn SQL queries, database design, and optimization.",
+      "price": 34.99,
+      "instructor": "Emma Thompson",
+      "isFeatured": false,
+      "image": "/images/sql-course.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Git & GitHub Complete Course",
+      "slug": "git-github-complete-course",
+      "description": "Master version control and collaborative development.",
+      "price": 29.99,
+      "instructor": "Nathan Brooks",
+      "isFeatured": false,
+      "image": "/images/git-course.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Data Structures & Algorithms",
+      "slug": "data-structures-algorithms",
+      "description": "Prepare for coding interviews with DSA concepts.",
+      "price": 84.99,
+      "instructor": "Olivia Green",
+      "isFeatured": false,
+      "image": "/images/dsa-course.jpg"
+    },
+    {
+      "id": 20,
+      "title": "DevOps Engineering Bootcamp",
+      "slug": "devops-engineering-bootcamp",
+      "description": "Learn CI/CD pipelines, automation, monitoring, and infrastructure.",
+      "price": 94.99,
+      "instructor": "William Turner",
+      "isFeatured": false,
+      "image": "/images/devops-course.jpg"
+    }
+  ]
 }
