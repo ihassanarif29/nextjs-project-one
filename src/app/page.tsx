@@ -1,6 +1,7 @@
 import FeaturedCources from "@/components/FeaturedCources";
 import HeroSection from "@/components/HeroSection";
 import StickyScrollSection from "@/components/StickyScrollSection";
+import TestimonialCards from "@/components/TestimonialCards";
 
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
       <HeroSection />
       <FeaturedCources />
       <StickyScrollSection />
+      <TestimonialCards />
     </main>
   );
 }
