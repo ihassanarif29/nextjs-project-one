@@ -1,4 +1,5 @@
 import FeaturedCources from "@/components/FeaturedCources";
+import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
 import Instructors from "@/components/Instructors";
 import StickyScrollSection from "@/components/StickyScrollSection";
@@ -13,7 +14,8 @@ export default function Home() {
       <StickyScrollSection />
       <TestimonialCards />
       <UpcomingWebinars />
-      <Instructors />
+      {/* <Instructors /> */}
+      <Footer />
     </main>
   );
 }

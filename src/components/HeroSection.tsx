@@ -20,7 +20,7 @@ function HeroSection() {
           practical projects, expert guidance, and real-world experience.
         </p>
         <div className="mt-4">
-          <Link href={"/courses"}>
+          <Link href={"/cources"}>
             <Button
               borderRadius="1.75rem"
               className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"

@@ -37,14 +37,21 @@ function FeaturedCources() {
           {featuredCources.map((course: Course) => (
             <div key={course.id} className="flex justify-center">
               <BackgroundGradient className="flex flex-col rounded-[22px] bg-white dark:bg-zinc-900 overflow-hidden h-full max-w-sm">
-                <div className="p-4 sm:p-6 flex flex-col items-center text-center grow">
+                <div className="p-2 sm:p-6 flex flex-col items-center text-center grow">
+                  <img
+                    src={course.image}
+                    width={300}
+                    height={300}
+                    className="h-full w-full object-cover"
+                    alt="linear board demo"
+                  />
                   <p className="text-lg sm:text-xl text-black mt-4 mb-2 dark:text-neutral-200">
                     {course.title}
                   </p>
                   <p className="text-sm text-neutral-600 dark:text-neutral-400 grow">
                     {course.description}
                   </p>
-                  <Link href={`/courses/${course.slug}`}>Learn More</Link>
+                  <Link href={`/cources/${course.slug}`}>Learn More</Link>
                 </div>
               </BackgroundGradient>
             </div>
@@ -52,7 +59,7 @@ function FeaturedCources() {
         </div>
       </div>
       <div className="mt-20 text-center">
-        <Link href={"/courses"}>
+        <Link href={"/cources"}>
           <Button
             borderRadius="1.75rem"
             className="bg-white dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"

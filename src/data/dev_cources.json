@@ -8,7 +8,7 @@
       "price": 49.99,
       "instructor": "John Smith",
       "isFeatured": true,
-      "image": "/images/javascript-course.jpg"
+      "image": "/images/complete-javascript-bootcamp.png"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "price": 79.99,
       "instructor": "Sarah Johnson",
       "isFeatured": false,
-      "image": "/images/mern-course.jpg"
+      "image": "/images/mern-stack-development-masterclass.png"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "price": 39.99,
       "instructor": "David Wilson",
       "isFeatured": true,
-      "image": "/images/python-course.jpg"
+      "image": "/images/python-for-beginners.png"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "price": 59.99,
       "instructor": "Emily Davis",
       "isFeatured": false,
-      "image": "/images/react-course.jpg"
+      "image": "/images/react-nextjs-complete-guide.png"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "price": 89.99,
       "instructor": "Michael Brown",
       "isFeatured": true,
-      "image": "/images/unity-course.jpg"
+      "image": "/images/unity-game-development.png"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "price": 69.99,
       "instructor": "Alex Carter",
       "isFeatured": false,
-      "image": "/images/docker-course.jpg"
+      "image": "/images/docker-kubernetes-essentials.png"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "price": 44.99,
       "instructor": "Robert Taylor",
       "isFeatured": true,
-      "image": "/images/cpp-course.jpg"
+      "image": "/images/complete-cpp-programming.png"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "price": 54.99,
       "instructor": "Daniel Lee",
       "isFeatured": false,
-      "image": "/images/java-course.jpg"
+      "image": "/images/java-programming-masterclass.png"
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "price": 42.99,
       "instructor": "Chris Martin",
       "isFeatured": false,
-      "image": "/images/typescript-course.jpg"
+      "image": "/images/advanced-typescript-course.png"
     },
     {
       "id": 10,
@@ -98,7 +98,7 @@
       "price": 64.99,
       "instructor": "Jessica White",
       "isFeatured": false,
-      "image": "/images/node-course.jpg"
+      "image": "/images/nodejs-backend-development.png"
     },
     {
       "id": 11,
@@ -108,7 +108,7 @@
       "price": 74.99,
       "instructor": "Andrew Scott",
       "isFeatured": false,
-      "image": "/images/flutter-course.jpg"
+      "image": "/images/flutter-mobile-app-development.png"
     },
     {
       "id": 12,
@@ -118,7 +118,7 @@
       "price": 59.99,
       "instructor": "Sophia Clark",
       "isFeatured": true,
-      "image": "/images/kotlin-course.jpg"
+      "image": "/images/android-development-with-kotlin.png"
     },
     {
       "id": 13,
@@ -128,7 +128,7 @@
       "price": 69.99,
       "instructor": "Ryan Cooper",
       "isFeatured": true,
-      "image": "/images/swift-course.jpg"
+      "image": "/images/ios-development-with-swift.png"
     },
     {
       "id": 14,
@@ -138,7 +138,7 @@
       "price": 99.99,
       "instructor": "Lisa Walker",
       "isFeatured": false,
-      "image": "/images/ml-course.jpg"
+      "image": "/images/machine-learning-with-python.png"
     },
     {
       "id": 15,
@@ -148,7 +148,7 @@
       "price": 58.99,
       "instructor": "Kevin Harris",
       "isFeatured": false,
-      "image": "/images/cyber-course.jpg"
+      "image": "/images/cybersecurity-fundamentals.png"
     },
     {
       "id": 16,
@@ -158,7 +158,7 @@
       "price": 72.99,
       "instructor": "Mark Allen",
       "isFeatured": false,
-      "image": "/images/aws-course.jpg"
+      "image": "/images/aws-cloud-practitioner-course.png"
     },
     {
       "id": 17,
@@ -168,7 +168,7 @@
       "price": 34.99,
       "instructor": "Emma Thompson",
       "isFeatured": false,
-      "image": "/images/sql-course.jpg"
+      "image": "/images/sql-database-masterclass.png"
     },
     {
       "id": 18,
@@ -178,7 +178,7 @@
       "price": 29.99,
       "instructor": "Nathan Brooks",
       "isFeatured": false,
-      "image": "/images/git-course.jpg"
+      "image": "/images/git-github-complete-course.png"
     },
     {
       "id": 19,
@@ -188,7 +188,7 @@
       "price": 84.99,
       "instructor": "Olivia Green",
       "isFeatured": false,
-      "image": "/images/dsa-course.jpg"
+      "image": "/images/data-structures-algorithms.png"
     },
     {
       "id": 20,
@@ -198,7 +198,7 @@
       "price": 94.99,
       "instructor": "William Turner",
       "isFeatured": false,
-      "image": "/images/devops-course.jpg"
+      "image": "/images/devops-engineering-bootcamp.png"
     }
   ]
 }
